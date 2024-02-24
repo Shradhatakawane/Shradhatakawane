@@ -1,7 +1,7 @@
 
 
 
-![MasterHead]<img align="middle"(https://64.media.tumblr.com/f9cdd7f7e01de32b08525e12a3f8c4d7/tumblr_oc6m5xG3NW1txeruoo2_r1_500.gifv) >
+![MasterHead](https://64.media.tumblr.com/f9cdd7f7e01de32b08525e12a3f8c4d7/tumblr_oc6m5xG3NW1txeruoo2_r1_500.gifv) 
 <h1 align="center">Hi 👋, I'm Shradha Takawane</h1>
 <h3 align="center">Electronics and Telecommunication Engineering Student From India IND</h3>
 <br>
