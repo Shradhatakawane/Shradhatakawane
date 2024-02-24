@@ -1,7 +1,7 @@
 
 
 
-![MasterHead](https://www.sherpadesk.com/hubfs/Blog%20Images/IT%20Helpdesks%20The%20Key%20to%20Digital%20Transformation%20Success/Featured_Digital.gif)
+![MasterHead](https://64.media.tumblr.com/f9cdd7f7e01de32b08525e12a3f8c4d7/tumblr_oc6m5xG3NW1txeruoo2_r1_500.gifv)
 <h1 align="center">Hi 👋, I'm Shradha Takawane</h1>
 <h3 align="center">Electronics and Telecommunication Engineering Student From India IND</h3>
 <br>
