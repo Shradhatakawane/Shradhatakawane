@@ -1,7 +1,7 @@
 
 
 
-![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fbd0a9d_7ea3fad90c0c4cfb92c963f44f28bc1a~mv2.gif&tbnid=lautU1ESdAQc7M&vet=12ahUKEwjaq6Hg5sOEAxWVcmwGHYOPAX0QMygNegQIARB6..i&imgrefurl=https%3A%2F%2Fwww.blelectronics.net%2F&docid=AnwWX5OuA5iFFM&w=2048&h=1080&q=micro%20con%20troller%20gif&ved=2ahUKEwjaq6Hg5sOEAxWVcmwGHYOPAX0QMygNegQIARB6) 
+![MasterHead](https://www.snjb.org/engineering/images/department/Untitled-1_thumb.jpg) 
 <h1 align="center">Hi 👋, I'm Shradha Takawane</h1>
 <h3 align="center">Electronics and Telecommunication Engineering Student From India IND</h3>
 <br>
