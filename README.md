@@ -3,12 +3,13 @@
 ![MasterHead](https://www.snjb.org/engineering/images/department/Untitled-1_thumb.jpg) 
 
 <h1 align="center">Hi 👋, I'm Shradha Takawane</h1>
-<h3 align="center">Python Full Stack Developer | Django | React | MySQL | India 🇮🇳</h3>
+<h3 align="center">Aspiring Data Analyst | SQL | Python | Excel | Power BI | Tableau | India 🇮🇳</h3>
 <br>
 
-- 🔭 I’m currently working on **Python Full Stack Projects**
-- 🌱 I’m currently learning **Django REST Framework, APIs & Deployment**
-- ⚡ Fun fact **I love building real-world web applications**
+- 🔭 I’m currently working on **Real-World Data Analytics Projects**
+- 🌱 I’m currently improving my skills in **SQL, Python, Excel & Power BI**
+- 📊 I enjoy **Data Cleaning, Exploratory Data Analysis & Data Visualization**
+- ⚡ Fun fact **I turn raw data into actionable insights**
 <br>
 
 <div align="center">
